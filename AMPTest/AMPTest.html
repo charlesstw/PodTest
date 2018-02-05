@@ -1,0 +1,62 @@
+<!doctype html>
+<html amp lang="en"><!-- 宣告為一個apm page -->
+  <head>
+    <meta charset="utf-8">
+    <script async src="https://cdn.ampproject.org/v0.js"></script><!-- include amp js library -->
+
+    <!-- 使用廣告需加入 -->
+    <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+    <title>Charles Test page, AMPs</title>
+    <link rel="canonical" href="http://example.ampproject.org/article-metadata.html"><!-- 指向原本(非apm)的page,若只有一個則指向自己 -->
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1"><!-- responsive AMP -->
+
+    <!-- Optional metadata:Schema.org definition for search result -->
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Open-source framework for publishing content",
+        "datePublished": "2015-10-07T12:02:41Z",
+        "image": [
+          "logo.jpg"
+        ]
+      }
+    </script>
+    <!-- AMP Boilerplate Code  CSS boilerplate to initially hide the content until AMP JS is loaded.-->
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom>
+      /* any custom style goes here */
+      body {
+        background-color: white;
+      }
+      amp-img {
+        background-color: gray;
+        border: 5px solid red;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Welcome to the mobile web</h1>
+    <!-- <img> tag should use like below -->
+    <amp-img src="amp.jpg" alt="Welcome" height="400" width="300"></amp-img>
+
+    <!-- 影片會按照560:315自動縮放 -->
+    <div>
+      <amp-youtube data-videoid="WrpkFROqR0Q" 
+    layout="responsive"
+    width="370"
+    height="260">
+      </amp-youtube>  
+    </div>
+    <amp-video controls
+      width="320"
+      height="260"
+      src="//video.mp4"
+      poster="amp.jpg">
+    <div fallback>
+      <p>This browser does not support the video element.</p>
+    </div>
+    </amp-video>    
+  </body>
+</html>
