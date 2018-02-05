@@ -42,22 +42,17 @@
     <!-- <img> tag should use like below -->
     <amp-img src="amp.jpg" alt="Welcome" height="400" width="300"></amp-img>
 
-    <!-- 影片會按照560:315自動縮放 -->
-    <div>
-      <amp-youtube data-videoid="WrpkFROqR0Q" 
-    layout="responsive"
-    width="370"
-    height="260">
-      </amp-youtube>  
-    </div>
+    <!-- 影片會按照560:315自動縮放 --> 
     <amp-video controls
-      width="320"
-      height="260"
-      src="//video.mp4"
-      poster="amp.jpg">
-    <div fallback>
-      <p>This browser does not support the video element.</p>
-    </div>
-    </amp-video>    
+  width="640"
+  height="360"
+  layout="responsive"
+  poster="amp.jpg">  
+  <source src="//video/test.mp4"
+    type="video/mp4" />
+  <div fallback>
+    <p>This browser does not support the video element.</p>
+  </div>
+</amp-video>
   </body>
 </html>
