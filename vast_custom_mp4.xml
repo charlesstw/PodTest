@@ -145,19 +145,19 @@ https://redirector.gvt1.com/videoplayback/id/8d4283ac55ee1123/itag/17/source/gfp
 https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
 ]]>
 </MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="320" height="180" type="video/3gpp" bitrate="210" scalable="true" maintainAspectRatio="true">
+<MediaFile id="GDFP" delivery="progressive" width="320" height="180" type="video/mp4" bitrate="210" scalable="true" maintainAspectRatio="true">
 <![CDATA[
-https://redirector.gvt1.com/videoplayback/id/8d4283ac55ee1123/itag/36/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2F3gpp/ip/0.0.0.0/ipbits/0/expire/1516635988/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/87D1BD1875C0BC1B4EF120485EE7D7902044CA85.2BDE6177E19AF651531629A0F9B8AF3F447FA6D2/key/ck2/file/file.3gp
+https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
 ]]>
 </MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/webm" bitrate="881" scalable="true" maintainAspectRatio="true">
+<MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="881" scalable="true" maintainAspectRatio="true">
 <![CDATA[
-https://redirector.gvt1.com/videoplayback/id/8d4283ac55ee1123/itag/43/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ip/0.0.0.0/ipbits/0/expire/1516635988/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/0A6C6683E0BB6B7A577B267601EE9F5AFF1CFC4E.079DF0EED0216CA7A583CD59C386EA04C500C41B/key/ck2/file/file.webm
+https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
 ]]>
 </MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/webm" bitrate="1227" scalable="true" maintainAspectRatio="true">
+<MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/mp4" bitrate="1227" scalable="true" maintainAspectRatio="true">
 <![CDATA[
-https://redirector.gvt1.com/videoplayback/id/8d4283ac55ee1123/itag/44/source/gfp_video_ads/requiressl/yes/acao/yes/mime/video%2Fwebm/ip/0.0.0.0/ipbits/0/expire/1516635988/sparams/ip,ipbits,expire,id,itag,source,requiressl,acao,mime/signature/8F20E88731742D182F0357AE22418FF59BC0F613.838E51904814EC65D7FDA83DF09B1AD5BEE34AAA/key/ck2/file/file.webm
+https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
 ]]>
 </MediaFile>
 <MediaFile id="GDFP" delivery="streaming" width="1" height="1" type="application/x-mpegURL" minBitrate="45" maxBitrate="1615" scalable="true" maintainAspectRatio="true">
