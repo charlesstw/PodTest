@@ -13,12 +13,12 @@ https://pubads.g.doubleclick.net/pagead/conversion/?ai=BqjfD9LJlWpbXC4b29QX1ubuo
 </Error>
 <Impression>
 <![CDATA[
-https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjssB0e5FTdF-PhFyTTU1ph9jvTG1V-PfLe2E6pLceHYF-KxkESzhappaFmrdo-s05VUbUe3IYJMDEUUutugCJktbAPUFjJPfugsJkZ6Ns5eWVcew8o-W1CgSd-UGgaTgiTA2ZaboVASUNWoLYGfxH0G7JAHbQntqLOhP9yxeKbtgZ1Y5Ms1DzqroX0SV9sO9pNp305hwonE1iYQPnCbVEeYGrg4PgFFhSjMTmkWQBYvG2THw&sig=Cg0ArKJSzIepO77UdsuyEAE&adurl=
+https://test.com/1234567
 ]]>
 </Impression>
 <Creatives>
 <Creative id="138222994835" sequence="1">
-<Linear skipoffset="00:00:10">
+<Linear skipoffset="00:00:12">
 <Duration>00:00:30</Duration>
 <TrackingEvents>
 <Tracking event="start">
