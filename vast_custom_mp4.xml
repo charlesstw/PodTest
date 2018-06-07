@@ -160,16 +160,6 @@ https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
 https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
 ]]>
 </MediaFile>
-<MediaFile id="GDFP" delivery="streaming" width="1" height="1" type="application/x-mpegURL" minBitrate="45" maxBitrate="1615" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/api/manifest/hls_variant/requiressl/yes/source/gfp_video_ads/id/8d4283ac55ee1123/itag/0/playlist_type/LIVE/acao/yes/mime/application%2Fx-mpegURL/ip/0.0.0.0/ipbits/0/expire/1548150388/sparams/ip,ipbits,expire,requiressl,source,id,itag,playlist_type,acao,mime/signature/4E4ECD92ED4522458472BD066CCD7B151CA652CA.8C8005AEAD86C6C9435F1A989A3B3618591123F5/key/ck2/file/index.m3u8
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="streaming" width="1" height="1" type="application/dash+xml" minBitrate="45" maxBitrate="1615" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://redirector.gvt1.com/api/manifest/dash/requiressl/yes/source/gfp_video_ads/id/8d4283ac55ee1123/itag/0/playlist_type/LIVE/acao/yes/mime/application%2Fdash+xml/ip/0.0.0.0/ipbits/0/expire/1548150388/sparams/ip,ipbits,expire,requiressl,source,id,itag,playlist_type,acao,mime/signature/93D216E3F7345923A5A718EF95BE25E2E39FD3C9.2B944479489461C19FFFBA1005CC5BD640D35FAF/key/ck2/file/index.mpd
-]]>
-</MediaFile>
 </MediaFiles>
 </Linear>
 </Creative>
