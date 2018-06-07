@@ -208,7 +208,6 @@ https://portals1.tamedia.com.tw/rmadp/g/test?status=abandon
 </CustomTracking>
 </Extension>
 <Extension type="DFP">
-<SkippableAdType>NOT_SKIPPABLE</SkippableAdType>
 </Extension>
 <Extension type="metrics">
 <FeEventId>9LJlWv-XC4nH9AXYt6WgDg</FeEventId>
