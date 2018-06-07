@@ -18,7 +18,7 @@ https://portals1.tamedia.com.tw/rmadp/g/test?status=Impression
 </Impression>
 <Creatives>
 <Creative id="138222994835" sequence="1">
-<Linear>
+<Linear skipoffset="00:00:12">
 <Duration>00:00:40</Duration>
 <TrackingEvents>
 <Tracking event="start">
@@ -208,6 +208,7 @@ https://portals1.tamedia.com.tw/rmadp/g/test?status=abandon
 </CustomTracking>
 </Extension>
 <Extension type="DFP">
+<SkippableAdType>Generic</SkippableAdType>
 </Extension>
 <Extension type="metrics">
 <FeEventId>9LJlWv-XC4nH9AXYt6WgDg</FeEventId>
