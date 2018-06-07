@@ -8,12 +8,12 @@
 </Description>
 <Error>
 <![CDATA[
-https://pubads.g.doubleclick.net/pagead/conversion/?ai=BqjfD9LJlWpbXC4b29QX1ubuoDunorJVFAAAAEAEgmc-0IzgAWJOL7vWCBGCfAboBEjMyMHg1MCwzMzZ4MjY5X3htbMgBBdoBBWh0dHA6mAIKqQJIj48mDmNiPsACAuACAOoCFC8xODQ2MjcwNS9pT1NJTUFUZXN0-AKC0h6QA7AJmAOwCagDAeAEAdIFBhDAtd36EJAGAaAGI9gHAeAHH9IIBwiAARABGAE&sigh=1mT8E58PnSA&label=videoplayfailed[ERRORCODE]
+https://portals1.tamedia.com.tw/rmadp/g/test?status=Error
 ]]>
 </Error>
 <Impression>
 <![CDATA[
-https://Impression123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=Impression
 ]]>
 </Impression>
 <Creatives>
@@ -23,99 +23,102 @@ https://Impression123ljfoiwjefoijwojef/
 <TrackingEvents>
 <Tracking event="start">
 <![CDATA[
-https://start123ljfoiwjefoijwojef/]]>
+https://portals1.tamedia.com.tw/rmadp/g/test?status=start
+]]>
 </Tracking>
 <Tracking event="firstQuartile">
 <![CDATA[
-https://firstQuartile123ljfoiwjefoijwojef/]]>
+https://portals1.tamedia.com.tw/rmadp/g/test?status=firstQuartile
+/]]>
 </Tracking>
 <Tracking event="midpoint">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=midpoint]]>
+https://portals1.tamedia.com.tw/rmadp/g/test?status=midpoint
+]]>
 </Tracking>
 <Tracking event="thirdQuartile">
 <![CDATA[
-https://thirdQuartile123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=thirdQuartile
 ]]>
 </Tracking>
 <Tracking event="complete">
 <![CDATA[
-https://complete123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=complete
 ]]>
 </Tracking>
 <Tracking event="mute">
 <![CDATA[
-https://mute123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=mute
 ]]>
 </Tracking>
 <Tracking event="unmute">
 <![CDATA[
-https://unmute123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=unmute
 ]]>
 </Tracking>
 <Tracking event="rewind">
 <![CDATA[
-https://rewind123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=rewind
 ]]>
 </Tracking>
 <Tracking event="pause">
 <![CDATA[
-https://pause123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=pause
 ]]>
 </Tracking>
 <Tracking event="resume">
 <![CDATA[
-https://resume123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=resume
 ]]>
 </Tracking>
 <Tracking event="fullscreen">
 <![CDATA[
-https://fullscreen123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=fullscreen
 ]]>
 </Tracking>
 <Tracking event="creativeView">
 <![CDATA[
-https://creativeView123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=creativeView
 ]]>
 </Tracking>
 <Tracking event="exitFullscreen">
 <![CDATA[
-https://exitFullscreen123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=exitFullscreen
 ]]>
 </Tracking>
 <Tracking event="acceptInvitationLinear">
 <![CDATA[
-https://pubads.g.doubleclick.net/pagead/conversion/?ai=BqjfD9LJlWpbXC4b29QX1ubuoDunorJVFAAAAEAEgmc-0IzgAWJOL7vWCBGCfAboBEjMyMHg1MCwzMzZ4MjY5X3htbMgBBdoBBWh0dHA6mAIKqQJIj48mDmNiPsACAuACAOoCFC8xODQ2MjcwNS9pT1NJTUFUZXN0-AKC0h6QA7AJmAOwCagDAeAEAdIFBhDAtd36EJAGAaAGI9gHAeAHH9IIBwiAARABGAE&sigh=1mT8E58PnSA&label=acceptinvitation&ad_mt=[AD_MT]
+https://portals1.tamedia.com.tw/rmadp/g/test?status=acceptInvitationLinear
 ]]>
 </Tracking>
 <Tracking event="closeLinear">
 <![CDATA[
-https://pubads.g.doubleclick.net/pagead/conversion/?ai=BqjfD9LJlWpbXC4b29QX1ubuoDunorJVFAAAAEAEgmc-0IzgAWJOL7vWCBGCfAboBEjMyMHg1MCwzMzZ4MjY5X3htbMgBBdoBBWh0dHA6mAIKqQJIj48mDmNiPsACAuACAOoCFC8xODQ2MjcwNS9pT1NJTUFUZXN0-AKC0h6QA7AJmAOwCagDAeAEAdIFBhDAtd36EJAGAaAGI9gHAeAHH9IIBwiAARABGAE&sigh=1mT8E58PnSA&label=adclose&ad_mt=[AD_MT]
+https://portals1.tamedia.com.tw/rmadp/g/test?status=closeLinear
 ]]>
 </Tracking>
 <Tracking event="skip">
 <![CDATA[
-https://skip123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=skip
 ]]>
 </Tracking>
 <Tracking event="progress" offset="00:00:05">
 <![CDATA[
-https://progress5sec123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=progressOffset05
 ]]>
 </Tracking>
 <Tracking event="progress" offset="00:00:30">
 <![CDATA[
-https://progress30sec123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=progressOffset30
 ]]>
 </Tracking>
 <Tracking event="start">
 <![CDATA[
-https://start123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=start
 ]]>
 </Tracking>
 <Tracking event="complete">
 <![CDATA[
-https://complete123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=complete
 ]]>
 </Tracking>
 </TrackingEvents>
@@ -127,7 +130,7 @@ https://www.tamedia.com.tw/
 </ClickThrough>
 <ClickTracking id="">
 <![CDATA[
-https://ClickTracking123ljfoiwjefoijwojef/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=ClickTracking
 ]]>
 </ClickTracking>
 </VideoClicks>
@@ -165,19 +168,19 @@ https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
 <Companion id="138222975093" width="320" height="50">
 <StaticResource creativeType="image/png">
 <![CDATA[
-https://pagead2.googlesyndication.com/pagead/imgad?id=CICAgKDr5eOEzgEQwAIYMjIIweaGu4tqxJg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZc3nAjDR4htE3BWaewAIRi-eaNUfG4yoIhvS7rNWRBZnaPKg-
 ]]>
 </StaticResource>
 <TrackingEvents>
 <Tracking event="creativeView">
 <![CDATA[
-https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstErW2TPs2wQmHiZEBNXRAusbTZnYgLvfkyYIGEk9xNN8OVFG2bWpK15aWOb6q-Xnh_IR1y0XJ0HXTmHbwko3tEhQ1SF43xbX3zdk4wbq9YrPN-Ly1y09gKbwEgiz-tt5N5YUHzby5diVTdxc1dGZ2Ga4Cs-TbLFbP6DzxPk3-hmsiJ6_SehbYZRi4qtyWlNKxBzExJO8qzaFTbcAYt8lliQT0b1fh_rQvNLMYQ8KMJVg&sig=Cg0ArKJSzMSKfs6I2ndIEAE&adurl=
+https://portals1.tamedia.com.tw/rmadp/g/test?status=creativeView
 ]]>
 </Tracking>
 </TrackingEvents>
 <CompanionClickThrough>
 <![CDATA[
-https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjstY26Ks2ZDHODW0tvrxdwdZzYkrR-6wjUPEWup9RjKYAGpkxjHpY5z3HUARjRqztueRuqkdEPJcyhML6q6jvKkxhiSc6E-qDn977Y9lStV79T26HUXzpzCcaTWY-cgZlfQI8nAe4NV7zDiZWRuknmnnZRBIzYWHVoAKBTotqzL1wG4yP85UCBOObliKhUofUf474SrCKx_M5Fxim2a0EfWy2qv5B-HGjN15hrc&sig=Cg0ArKJSzL0NdVIu1pLK&adurl=https://www.apple.com/tw/
+https://portals1.tamedia.com.tw/rmadp/g/test?status=CompanionClickThrough
 ]]>
 </CompanionClickThrough>
 </Companion>
@@ -194,12 +197,12 @@ https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjstY26Ks2ZDHODW0tvrxdwdZzYkrR
 <CustomTracking>
 <Tracking event="viewable_impression">
 <![CDATA[
-https://pubads.g.doubleclick.net/pagead/conversion/?ai=BqjfD9LJlWpbXC4b29QX1ubuoDunorJVFAAAAEAEgmc-0IzgAWJOL7vWCBGCfAboBEjMyMHg1MCwzMzZ4MjY5X3htbMgBBdoBBWh0dHA6mAIKqQJIj48mDmNiPsACAuACAOoCFC8xODQ2MjcwNS9pT1NJTUFUZXN0-AKC0h6QA7AJmAOwCagDAeAEAdIFBhDAtd36EJAGAaAGI9gHAeAHH9IIBwiAARABGAE&sigh=1mT8E58PnSA&label=viewable_impression&acvw=[VIEWABILITY]&gv=[GOOGLE_VIEWABILITY]&ad_mt=[AD_MT]
+https://portals1.tamedia.com.tw/rmadp/g/test?status=viewable_impression
 ]]>
 </Tracking>
 <Tracking event="abandon">
 <![CDATA[
-https://pubads.g.doubleclick.net/pagead/conversion/?ai=BqjfD9LJlWpbXC4b29QX1ubuoDunorJVFAAAAEAEgmc-0IzgAWJOL7vWCBGCfAboBEjMyMHg1MCwzMzZ4MjY5X3htbMgBBdoBBWh0dHA6mAIKqQJIj48mDmNiPsACAuACAOoCFC8xODQ2MjcwNS9pT1NJTUFUZXN0-AKC0h6QA7AJmAOwCagDAeAEAdIFBhDAtd36EJAGAaAGI9gHAeAHH9IIBwiAARABGAE&sigh=1mT8E58PnSA&label=video_abandon&acvw=[VIEWABILITY]&gv=[GOOGLE_VIEWABILITY]
+https://portals1.tamedia.com.tw/rmadp/g/test?status=abandon
 ]]>
 </Tracking>
 </CustomTracking>
