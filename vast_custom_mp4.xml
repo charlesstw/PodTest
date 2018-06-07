@@ -18,7 +18,7 @@ https://portals1.tamedia.com.tw/rmadp/g/test?status=Impression
 </Impression>
 <Creatives>
 <Creative id="138222994835" sequence="1">
-<Linear skipoffset="00:00:12">
+<Linear>
 <Duration>00:00:40</Duration>
 <TrackingEvents>
 <Tracking event="start">
