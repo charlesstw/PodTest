@@ -1,16 +1,11 @@
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
 <Ad id="4552350400">
-<InLine>
-<AdSystem>GDFP</AdSystem>
-<AdTitle>IMA Test Ad</AdTitle>
-<Description>
-<![CDATA[ IMA Test Ad ad ]]>
-</Description>
+<Wrapper>
 <VASTAdTagURI>
 <![CDATA[
 https://portals1.tamedia.com.tw/rmadp/g/vastXml
 ]]>
 </VASTAdTagURI>
-</InLine>
+</Wrapper>
 </Ad>
 </VAST>
