@@ -3,7 +3,7 @@
 <Wrapper>
 <VASTAdTagURI>
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/vastXml
+https://raw.githubusercontent.com/charlesstw/PodTest/master/vast_custom_2.xml
 ]]>
 </VASTAdTagURI>
 </Wrapper>
