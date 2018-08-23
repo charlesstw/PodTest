@@ -134,6 +134,21 @@ https://portals1.tamedia.com.tw/rmadp/g/test?status=ClickTracking
 ]]>
 </ClickTracking>
 </VideoClicks>
+<Icons>
+   <Icon apiFrameowrk="TWM" program="AdChoices" width="100" height="20" xPosition="0" yPosition="200" duration="00:00:15" offset="00:00:02">
+    <StaticResource creativeType="image/jpg">
+      <![CDATA[https://anewmedium.files.wordpress.com/2015/07/adchoicesicon.jpg]]>
+    </StaticResource>
+    <IconClicks> 
+    	<IconClickThrough>
+		<![CDATA[https://www.google.com.tw]]> 
+	</IconClickThrough>
+	<IconClickTracking> 
+		<![CDATA[http://iconprovider.com/click.gif]]>
+	</IconClickTracking> 
+</IconClicks>
+</Icon>
+<Icons>
 <MediaFiles>
 <MediaFile id="GDFP" delivery="progressive" width="176" height="144" type="video/mp4" bitrate="76" scalable="true" maintainAspectRatio="true">
 <![CDATA[
