@@ -1,220 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
-<Ad id="4552350400">
+<Ad id="JPl2tRYYQXWGSD8vPY8JLA">
 <InLine>
-<AdSystem>GDFP</AdSystem>
-<AdTitle>IMA Test Ad</AdTitle>
-<Description>
-<![CDATA[ IMA Test Ad ad ]]>
-</Description>
+<AdSystem>TAMedia</AdSystem>
+<AdTitle>Instream Ad</AdTitle>
 <Error>
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=Error
+https://portals1.tamedia.com.tw/rmadp/g/ierror?errorCode=[ERRORCODE]&p17=&p29=&p28=&p15=&p23=&p3=d11537323910340cdX0&p22=&p12=&p1=9324325&p24=JPl2tRYYQXWGSD8vPY8JLA&p20=&p40=&p9=170390&p30=
 ]]>
 </Error>
 <Impression>
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=Impression
+
 ]]>
 </Impression>
 <Creatives>
-<Creative id="138222994835" sequence="1">
-<Linear skipoffset="00:00:03">
-<Duration>00:00:40</Duration>
+<Creative id="JPl2tRYYQXWGSD8vPY8JLA" sequence="1">
+<Linear skipoffset="00:00:20">
+<Duration>00:00:31</Duration>
+<MediaFiles>
+<MediaFile id="3" delivery="progressive" width="640" height="360" type="video/mp4">
+<![CDATA[
+https://adcs1.tamedia.com.tw/rmadp/img/uploadFile/134245/170390/VIDEOBANNER/640_238.mp4
+]]>
+</MediaFile>
+<MediaFile id="2" delivery="progressive" width="1280" height="720" type="video/mp4">
+<![CDATA[
+https://adcs1.tamedia.com.tw/rmadp/img/uploadFile/134245/170390/VIDEOBANNER/1280_238.mp4
+]]>
+</MediaFile>
+<MediaFile id="1" delivery="progressive" width="1920" height="1080" type="video/mp4">
+<![CDATA[
+https://adcs1.tamedia.com.tw/rmadp/img/uploadFile/134245/170390/VIDEOBANNER/1920_238.mp4
+]]>
+</MediaFile>
+</MediaFiles>
 <TrackingEvents>
 <Tracking event="start">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=start
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=I&p25=0&p27=&p43=0
 ]]>
 </Tracking>
 <Tracking event="firstQuartile">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=firstQuartile
-/]]>
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=I&p25=1&p27=&p43=25
+]]>
 </Tracking>
 <Tracking event="midpoint">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=midpoint
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=I&p25=1&p27=&p43=50
 ]]>
 </Tracking>
 <Tracking event="thirdQuartile">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=thirdQuartile
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=I&p25=1&p27=&p43=75
 ]]>
 </Tracking>
 <Tracking event="complete">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=complete
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=I&p25=2&p27=&p43=100
 ]]>
 </Tracking>
 <Tracking event="mute">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=mute
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86402000&p43=
 ]]>
 </Tracking>
 <Tracking event="unmute">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=unmute
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86401000&p43=
 ]]>
 </Tracking>
 <Tracking event="rewind">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=rewind
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86407000&p43=
 ]]>
 </Tracking>
 <Tracking event="pause">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=pause
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86405000&p43=
 ]]>
 </Tracking>
 <Tracking event="resume">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=resume
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86406000&p43=
 ]]>
 </Tracking>
 <Tracking event="fullscreen">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=fullscreen
-]]>
-</Tracking>
-<Tracking event="creativeView">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=creativeView
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86408000&p43=
 ]]>
 </Tracking>
 <Tracking event="exitFullscreen">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=exitFullscreen
-]]>
-</Tracking>
-<Tracking event="acceptInvitationLinear">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=acceptInvitationLinear
-]]>
-</Tracking>
-<Tracking event="closeLinear">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=closeLinear
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86409000&p43=
 ]]>
 </Tracking>
 <Tracking event="skip">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=skip
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86410000&p43=
 ]]>
 </Tracking>
-<Tracking event="progress" offset="00:00:07">
+<Tracking event="progress" offset="00:00:10">
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=progressOffset07
-]]>
-</Tracking>
-<Tracking event="progress" offset="00:00:30">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=progressOffset30
-]]>
-</Tracking>
-<Tracking event="start">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=start
-]]>
-</Tracking>
-<Tracking event="complete">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=complete
+https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=I&p25=1&p27=10000&p43=32
 ]]>
 </Tracking>
 </TrackingEvents>
 <VideoClicks>
-<ClickThrough id="GDFP">
+<ClickThrough id="TAMedia">
 <![CDATA[
-https://www.tamedia.com.tw/
+https://portals1.tamedia.com.tw/rmadp/g/adc2?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p35=1537342435685&p37=&rd=1
 ]]>
 </ClickThrough>
-<ClickTracking id="">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=ClickTracking
-]]>
-</ClickTracking>
 </VideoClicks>
-<MediaFiles>
-<MediaFile id="GDFP" delivery="progressive" width="176" height="144" type="video/mp4" bitrate="76" scalable="true" maintainAspectRatio="true">
+<Icons>
+<Icon apiFrameowrk="GDFP" program="AdChoices" width="395" height="80" xPosition="right" yPosition="bottom" duration="00:00:15" offset="00:00:02">
+<StaticResource creativeType="image/jpg">
 <![CDATA[
-https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="651" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="320" height="180" type="video/mp4" bitrate="210" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="881" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
-]]>
-</MediaFile>
-<MediaFile id="GDFP" delivery="progressive" width="854" height="480" type="video/mp4" bitrate="1227" scalable="true" maintainAspectRatio="true">
-<![CDATA[
-https://portals1.tamedia.com.tw/Charles_TestFolder/vast/video.mp4
-]]>
-</MediaFile>
-</MediaFiles>
-</Linear>
-</Creative>
-<Creative id="138222975093" sequence="1">
-<CompanionAds>
-<Companion id="138222975093" width="320" height="50">
-<StaticResource creativeType="image/png">
-<![CDATA[
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZc3nAjDR4htE3BWaewAIRi-eaNUfG4yoIhvS7rNWRBZnaPKg-
+
 ]]>
 </StaticResource>
-<TrackingEvents>
-<Tracking event="creativeView">
+<IconClicks> 
+<IconClickThrough>
 <![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=creativeView
+
 ]]>
-</Tracking>
-</TrackingEvents>
-<CompanionClickThrough>
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=CompanionClickThrough
-]]>
-</CompanionClickThrough>
-</Companion>
-</CompanionAds>
+</IconClickThrough>
+</IconClicks>
+</Icon>
+</Icons>
+</Linear>
 </Creative>
 </Creatives>
-<Extensions>
-<Extension type="geo">
-<Country>TW</Country>
-<Bandwidth>4</Bandwidth>
-<BandwidthKbps>8020</BandwidthKbps>
-</Extension>
-<Extension type="activeview">
-<CustomTracking>
-<Tracking event="viewable_impression">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=viewable_impression
-]]>
-</Tracking>
-<Tracking event="abandon">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status=abandon
-]]>
-</Tracking>
-</CustomTracking>
-</Extension>
-<Extension type="DFP">
-<SkippableAdType>Generic</SkippableAdType>
-</Extension>
-<Extension type="metrics">
-<FeEventId>9LJlWv-XC4nH9AXYt6WgDg</FeEventId>
-<AdEventId>CJah-u6k69gCFQZ7vQod9dwO5Q</AdEventId>
-</Extension>
-</Extensions>
 </InLine>
 </Ad>
 </VAST>
