@@ -1,0 +1,135 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+<Ad id="JPl2tRYYQXWGSD8vPY8JLA">
+<InLine>
+<AdSystem>TAMedia</AdSystem>
+<AdTitle>Instream Ad</AdTitle>
+<Error>
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=Error
+]]>
+</Error>
+<Impression>
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=Impression
+]]>
+</Impression>
+<Creatives>
+<Creative id="JPl2tRYYQXWGSD8vPY8JLA" sequence="1">
+<Linear skipoffset="00:00:20">
+<Duration>00:00:31</Duration>
+<MediaFiles>
+<MediaFile id="3" delivery="progressive" width="640" height="360" type="video/mp4">
+<![CDATA[
+https://adcs1.tamedia.com.tw/rmadp/img/uploadFile/134245/170390/VIDEOBANNER/640_238.mp4
+]]>
+</MediaFile>
+<MediaFile id="2" delivery="progressive" width="1280" height="720" type="video/mp4">
+<![CDATA[
+https://adcs1.tamedia.com.tw/rmadp/img/uploadFile/134245/170390/VIDEOBANNER/1280_238.mp4
+]]>
+</MediaFile>
+<MediaFile id="1" delivery="progressive" width="1920" height="1080" type="video/mp4">
+<![CDATA[
+https://adcs1.tamedia.com.tw/rmadp/img/uploadFile/134245/170390/VIDEOBANNER/1920_238.mp4
+]]>
+</MediaFile>
+</MediaFiles>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=start
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=firstQuartile
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=midpoint
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=thirdQuartile
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=complete
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=complete
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=unmute
+]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=rewind
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=pause
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=resume
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=fullscreen
+]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=exitFullscreen
+]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=skip
+]]>
+</Tracking>
+<Tracking event="progress" offset="00:00:10">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/test?status2=10sec
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough id="TAMedia">
+<![CDATA[
+https://portals1.tamedia.com.tw/rmadp/g/adc2?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p35=1537342435685&p37=&rd=1
+]]>
+</ClickThrough>
+</VideoClicks>
+<Icons>
+<Icon apiFrameowrk="GDFP" program="AdChoices" width="395" height="80" xPosition="right" yPosition="bottom" duration="00:00:15" offset="00:00:02">
+<StaticResource creativeType="image/jpg">
+<![CDATA[
+]]>
+</StaticResource>
+<IconClicks> 
+<IconClickThrough>
+<![CDATA[
+]]>
+</IconClickThrough>
+</IconClicks>
+</Icon>
+</Icons>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
