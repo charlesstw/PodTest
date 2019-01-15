@@ -20,17 +20,17 @@ https://portals1.tamedia.com.tw/rmadp/g/test?status2=Impression
 <MediaFiles>
 <MediaFile id="3" delivery="progressive" width="640" height="360" type="video/mp4">
 <![CDATA[
-https://adcs1.tamedia.com.tw/rmadp/img/uploadFile/134245/170390/VIDEOBANNER/640_238.mp4
+http://adc.tamedia.com.tw/rmadp//img/uploadFile/141112/189263/VIDEOBANNER/MRNNNbCD.mp4
 ]]>
 </MediaFile>
 <MediaFile id="2" delivery="progressive" width="1280" height="720" type="video/mp4">
 <![CDATA[
-https://adcs1.tamedia.com.tw/rmadp/img/uploadFile/134245/170390/VIDEOBANNER/1280_238.mp4
+http://adc.tamedia.com.tw/rmadp//img/uploadFile/141112/189263/VIDEOBANNER/MRNNNbCD.mp4
 ]]>
 </MediaFile>
 <MediaFile id="1" delivery="progressive" width="1920" height="1080" type="video/mp4">
 <![CDATA[
-https://adcs1.tamedia.com.tw/rmadp/img/uploadFile/134245/170390/VIDEOBANNER/1920_238.mp4
+http://adc.tamedia.com.tw/rmadp//img/uploadFile/141112/189263/VIDEOBANNER/MRNNNbCD.mp4
 ]]>
 </MediaFile>
 </MediaFiles>
@@ -100,7 +100,7 @@ https://portals1.tamedia.com.tw/rmadp/g/test?status2=exitFullscreen
 https://portals1.tamedia.com.tw/rmadp/g/test?status2=skip
 ]]>
 </Tracking>
-<Tracking event="progress" offset="00:00:30">
+<Tracking event="progress" offset="00:00:31">
 <![CDATA[
 https://portals1.tamedia.com.tw/rmadp/g/test?status2=10sec
 ]]>
