@@ -105,7 +105,7 @@ https://pubads.g.doubleclick.net/pcs/click?xai=AKAOjsv8NbZ9zDFLLPwEPIw1RJr-3w3lc
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
-<MediaFile id="GDFP" delivery="streaming" width="1280" height="720" type="application/x-mpegURL" minBitrate="430" maxBitrate="600" scalable="true" maintainAspectRatio="true">
+<MediaFile id="GDFP" delivery="streaming" width="1280" height="720" type="application/x-mpegURL" minBitrate="300" maxBitrate="460" scalable="true" maintainAspectRatio="true">
 <![CDATA[
 https://content.jwplatform.com/manifests/yp34SRmf.m3u8
 ]]>
