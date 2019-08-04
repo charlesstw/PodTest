@@ -15,7 +15,6 @@ https://portals1.tamedia.com.tw/rmadp/g/test?status2=Impression
 </Impression>
 <Creatives>
 <Creative id="JPl2tRYYQXWGSD8vPY8JLA" sequence="1">
-<Linear skipoffset="00:00:20">
 <Duration>00:00:35</Duration>
 <MediaFiles>
 <MediaFile id="3" delivery="progressive" width="640" height="360" type="video/mp4">
@@ -93,11 +92,6 @@ https://portals1.tamedia.com.tw/rmadp/g/test?status2=fullscreen
 <Tracking event="exitFullscreen">
 <![CDATA[
 https://portals1.tamedia.com.tw/rmadp/g/test?status2=exitFullscreen
-]]>
-</Tracking>
-<Tracking event="skip">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/test?status2=skip
 ]]>
 </Tracking>
 <Tracking event="progress" offset="00:00:31">
