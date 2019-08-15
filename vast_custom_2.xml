@@ -15,7 +15,6 @@ https://portals1.tamedia.com.tw/rmadp/g/ierror?errorCode=[ERRORCODE]&p17=&p29=&p
 </Impression>
 <Creatives>
 <Creative id="JPl2tRYYQXWGSD8vPY8JLA" sequence="1">
-<Linear skipoffset="00:00:20">
 <Duration>00:00:31</Duration>
 <MediaFiles>
 <MediaFile id="3" delivery="progressive" width="640" height="360" type="video/mp4">
@@ -93,11 +92,6 @@ https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340c
 <Tracking event="exitFullscreen">
 <![CDATA[
 https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86409000&p43=
-]]>
-</Tracking>
-<Tracking event="skip">
-<![CDATA[
-https://portals1.tamedia.com.tw/rmadp/g/adv/pixel?p1=9324325&p3=d11537323910340cdX0&p4=&p5=&p6=&p9=170390&p12=&p13=&p15=&p17=&p20=&p22=&p23=&p24=JPl2tRYYQXWGSD8vPY8JLA&p28=&p29=&p30=&p31=&p32=&p37=&p19=E&p25=2&p27=86410000&p43=
 ]]>
 </Tracking>
 <Tracking event="progress" offset="00:00:10">
