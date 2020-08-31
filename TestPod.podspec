@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TestPod'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'A short description of TestPod.'
 
 # This description is used to generate tags and improve search results.
@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'  
   s.swift_version = "5.0"
   # s.subspecs         = [{"vendored_frameworks":["TWMID.framework"]}]    
-  s.vendored_frameworks = "Build/iOS/TWMID.framework"
+  s.vendored_frameworks = "Build/iOS/SDKCarthageTest.framework"
   # s.resource_bundles = {
   #   'TestPod' => ['TestPod/Assets/*.png']
   # }
